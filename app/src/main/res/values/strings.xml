@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">UAS</string>
+    <string name="judul">judul</string>
+    <string name="developer_name">Ryan Hidayat</string>
+    <string name="email">rynhdyt11@gmail.com</string>
+    <string name="description">description</string>
+    <string-array name="judul_video">
+        <item>Lionel Messi</item>
+        <item>Cristiano Ronaldo</item>
+        <item>Neymar JR</item>
+        <item>Pele</item>
+        <item>Maradona</item>
+        <item>Ronaldinho</item>
+        <item>Mohammed Salah</item>
+        <item>Luis Suarez</item>
+        <item>Kylian Mpabbe</item>
+        <item>Erling Haaland</item>
+        <item>Ter Stegen</item>
+        <item>Ajren Robben</item>
+        <item>Andres Iniesta</item>
+        <item>Mesut Ozil</item>
+        <item>Robert Lewandowski</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>Lionel Messi, seorang pemain sepak bola Argentina yang dianggap sebagai salah satu pemain terbaik sepanjang masa. Dia dikenal karena keterampilan teknisnya yang luar biasa, kecepatan, dan kemampuan mencetak gol yang mengagumkan. Messi telah memenangkan sejumlah penghargaan individu, termasuk enam kali Ballon dOr, dan memiliki karier yang mengesankan bersama Barcelona sebelum bergabung dengan Paris Saint-Germain (PSG) pada tahun 2021.</item>
+        <item>Pemain sepak bola Portugal yang juga dianggap sebagai salah satu yang terbaik dalam sejarah. Ronaldo terkenal dengan fisiknya yang kuat, kecepatan, dan kemampuan mencetak gol yang luar biasa. Dia telah memenangkan lima Ballon dOr dan meraih kesuksesan besar bersama klub seperti Manchester United, Real Madrid, dan Juventus, sebelum kembali ke Manchester United pada tahun 2021.</item>
+        <item>Pemain sepak bola asal Brasil yang dikenal karena kreativitasnya, keterampilan dribbling yang luar biasa, dan kecepatan. Neymar awalnya bermain untuk Santos di Brasil sebelum pindah ke Barcelona dan kemudian PSG pada 2017. Dia sering kali dianggap sebagai salah satu pemain yang mewakili generasi penerus Messi dan Ronaldo.</item>
+        <item>Pemain asal Brasil yang menjadi ikon dengan gaya bermainnya yang kreatif, trik-trik mengagumkan, dan senyumnya yang ramah. Ronaldinho meraih sukses besar bersama Barcelona dan AC Milan, memenangkan penghargaan individu seperti Ballon dOr dan menjadi salah satu pemain yang paling dihormati dalam sejarah sepak bola.</item>
+        <item>Pemain sepak bola Argentina yang dianggap sebagai salah satu yang terbaik dalam sejarah. Maradona terkenal karena keterampilan dribblingnya yang luar biasa dan kontribusinya pada tim Argentina yang memenangkan Piala Dunia 1986. Gol "Tangan Tuhan" dan "Gol Abad" adalah momen-momen terkenal dalam kariernya.</item>
+        <item>Pemain asal Brasil yang menjadi ikon dengan gaya bermainnya yang kreatif, trik-trik mengagumkan, dan senyumnya yang ramah. Ronaldinho meraih sukses besar bersama Barcelona dan AC Milan, memenangkan penghargaan individu seperti Ballon dOr dan menjadi salah satu pemain yang paling dihormati dalam sejarah sepak bola.</item>
+        <item>Pemain asal Brasil yang menjadi ikon dengan gaya bermainnya yang kreatif, trik-trik mengagumkan, dan senyumnya yang ramah. Ronaldinho meraih sukses besar bersama Barcelona dan AC Milan, memenangkan penghargaan individu seperti Ballon dOr dan menjadi salah satu pemain yang paling dihormati dalam sejarah sepak bola.</item>
+        <item>Pemain muda berbakat dari Prancis yang menjadi sorotan dunia setelah penampilannya yang mengesankan bersama Paris Saint-Germain dan tim nasional Prancis. Dikenal karena kecepatan luar biasa dan kemampuan mencetak golnya, Mbappe telah memenangkan beberapa penghargaan, termasuk Pemain Muda Terbaik FIFA.</item>
+        <item>Pemain sepak bola asal Mesir yang mencuri perhatian dengan penampilan impresifnya bersama Liverpool. Salah terkenal karena kecepatan, keterampilan dribbling, dan kemampuan mencetak golnya yang konsisten. Ia telah membantu Liverpool memenangkan berbagai trofi, termasuk Liga Champions UEFA.</item>
+        <item>Penyerang muda berbakat asal Norwegia yang dikenal karena kecepatan, fisik kuat, dan kemampuan mencetak gol yang impresif. Haaland telah menjadi sorotan utama di dunia sepak bola berkat penampilannya bersama Borussia Dortmund sebelum pindah ke Manchester City pada tahun 2022.</item>
+        <item>Penjaga Gawang berbakat asal Jerman yang dikenal karena kecepatan, fisik kuat, dan kemampuan mencetak gol yang impresif. Haaland telah menjadi sorotan utama di dunia sepak bola berkat penampilannya bersama Borussia Dortmund sebelum pindah ke Manchester City pada tahun 2022.</item>
+        <item>Penyerang asal Belanda yang dikenal karena kecepatan, fisik kuat, dan kemampuan mencetak gol yang impresif. Haaland telah menjadi sorotan utama di dunia sepak bola berkat penampilannya bersama Borussia Dortmund sebelum pindah ke Manchester City pada tahun 2022.</item>
+        <item>Gelandang yang berasal dari Spanyol yang dikenal karena kecepatan, fisik kuat, dan kemampuan mencetak gol yang impresif. Haaland telah menjadi sorotan utama di dunia sepak bola berkat penampilannya bersama Borussia Dortmund sebelum pindah ke Manchester City pada tahun 2022.</item>
+        <item>Gelandang dari Jerman yang dikenal karena kecepatan, fisik kuat, dan kemampuan mencetak gol yang impresif. Haaland telah menjadi sorotan utama di dunia sepak bola berkat penampilannya bersama Borussia Dortmund sebelum pindah ke Manchester City pada tahun 2022.</item>
+        <item>Penyerang dari Polandia yang dikenal karena kecepatan, fisik kuat, dan kemampuan mencetak gol yang impresif. Haaland telah menjadi sorotan utama di dunia sepak bola berkat penampilannya bersama Borussia Dortmund sebelum pindah ke Manchester City pada tahun 2022.</item>
+    </string-array>
+    <array name="video_id">
+        <item>@raw/messi</item>
+        <item>@raw/ronaldo</item>
+        <item>@raw/neymar</item>
+        <item>@raw/pele</item>
+        <item>@raw/maradona</item>
+        <item>@raw/ronaldinho</item>
+        <item>@raw/salah</item>
+        <item>@raw/suarez</item>
+        <item>@raw/mbappe</item>
+        <item>@raw/haland</item>
+        <item>@raw/ter</item>
+        <item>@raw/robben</item>
+        <item>@raw/iniesta</item>
+        <item>@raw/ozil</item>
+        <item>@raw/lewa</item>
+    </array>
+
+    <integer-array name="data_gambar">
+        <item>@drawable/messi</item>
+        <item>@drawable/ronaldo</item>
+        <item>@drawable/neymar</item>
+        <item>@drawable/pele</item>
+        <item>@drawable/maradona</item>
+        <item>@drawable/ronaldinho</item>
+        <item>@drawable/salah</item>
+        <item>@drawable/suarez</item>
+        <item>@drawable/mbappe</item>
+        <item>@drawable/haaland</item>
+        <item>@drawable/ter</item>
+        <item>@drawable/robben</item>
+        <item>@drawable/iniesta</item>
+        <item>@drawable/ozil</item>
+        <item>@drawable/lewa</item>
+    </integer-array>
+
+    <array name="audio_id">
+        <item>@raw/messi_audio</item>
+        <item>@raw/ronaldo_audio</item>
+        <item>@raw/neymar_audio</item>
+        <item>@raw/pele_audio</item>
+        <item>@raw/maradona_audio</item>
+        <item>@raw/ronaldinho_audio</item>
+        <item>@raw/salah_audio</item>
+        <item>@raw/suarez_audio</item>
+        <item>@raw/mbappe_audio</item>
+        <item>@raw/haaland_audio</item>
+        <item>@raw/ter_audio</item>
+        <item>@raw/robben_audio</item>
+        <item>@raw/iniesta_audio</item>
+        <item>@raw/ozil_audio</item>
+        <item>@raw/lewa_audio</item>
+    </array>
+</resources>
